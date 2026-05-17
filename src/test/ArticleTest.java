@@ -1,8 +1,5 @@
-package com.tuempresa;
-
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
+mport static org.junit.jupiter.api.Assertions.*;
+        import org.junit.jupiter.api.Test;
 
 class MagatzemTest {
 
@@ -36,4 +33,3 @@ class MagatzemTest {
         assertEquals(10, art[0].diesPerVendre, "Els dies del Martell no han de canviar");
     }
 }
-
